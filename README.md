@@ -6,8 +6,14 @@ I am a skilled web3 & smart contracts engineer with valuable experience in block
 ## ⚡ Projects
 
 - [Diamond Foundry](https://github.com/Forgenie/diamond-foundry) - an experimental framework for creating EIP2535 Diamond Proxies with a standalone Factory and Registry, using the Solidity foundry framework.
-- [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - a privacy-preserving DeFi protocol utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies. 
-- [ERC-6982: Efficient Default Lockable Tokens](https://eips.ethereum.org/EIPS/eip-6982) - A gas-efficient approach to soulbound NFTs, that introduces a default locked state and improvements to event indexing. 
+- [Foundry Book](https://github.com/foundry-rs/book) - Introduced the naming convention `test_<Action>` and `test_RevertsWhen_<Action>` for testing functions within the foundry docs.
+- [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - A privacy-preserving DeFi protocol utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies. 
+- [ERC-6982: Efficient Default Lockable Tokens](https://eips.ethereum.org/EIPS/eip-6982) - A gas-efficient approach to soulbound NFTs, that introduces a default locked state and improvements to event indexing.
+- [NFT Merkle-Proof Reveal](https://github.com/urataps/nft-merkle-uri) - Contracts and utility scripts for generating a merkle tree based on URI reveal data that is set by a user who has a proof.
+- [CUDA Fractals](https://github.com/urataps/CUDAmandelbrot/tree/master) - A parallel systolic architecture for generating Mandelbrot and Julia Set using the GPU with the NVIDIA CUDA framework.
+- [EVM Entropy](https://github.com/urataps/EVM_Entropy) - An analysis of occurences of EVM opcodes within a dataset of 5,000 smart contracts taken from etherscan.
+- [Empathy - A computer generated novel](https://github.com/urataps/ComputerNovel) - A story-generator based on books taken from Project Gutenberg, that in an ensamble describe the journey of a person from I --> He/She --> You --> We.
+- [Ethereum RPC Node](https://github.com/urataps/privateEthChain) - Scripts and utilities for creating a local geth node, interact with the chain, deploy some contracts and add other nodes.
 
 ## 📚 Articles & Publications
 
@@ -43,8 +49,7 @@ I am a skilled web3 & smart contracts engineer with valuable experience in block
 - [LinkedIn](https://www.linkedin.com/in/alexe-luca-spataru-40b52b146/)
 - [Telegram](https://t.me/urataps)
 - [Medium](https://medium.com/@urataps)
-- Email: alexe@forgenie.com | alexeluca.spataru@gmail.com 
-
+  
 <!--
 **urataps/urataps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
