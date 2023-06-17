@@ -7,6 +7,7 @@ I am a skilled web3 & smart contracts engineer with valuable experience in block
 
 - [Diamond Foundry](https://github.com/Forgenie/diamond-foundry) - an experimental framework for creating EIP2535 Diamond Proxies with a standalone Factory and Registry, using the Solidity foundry framework.
 - [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - a privacy-preserving DeFi protocol utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies. 
+- [ERC-6982: Efficient Default Lockable Tokens](https://eips.ethereum.org/EIPS/eip-6982) - A gas-efficient approach to soulbound NFTs, that introduces a default locked state and improvements to event indexing. 
 
 ## 📚 Articles & Publications
 
@@ -31,8 +32,11 @@ I am a skilled web3 & smart contracts engineer with valuable experience in block
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logo)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
 ## 📫 How to reach me
 
