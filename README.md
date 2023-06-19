@@ -1,7 +1,9 @@
 ### Hi there, I'm Alexe Spataru (urataps) 👋
 
 ## 💬 About me
-I am a skilled web3 & smart contracts engineer with valuable experience in blockchain applications and overall full-stack software development.
+I am a skilled web3 & smart contracts engineer, computer science graduate, research enthusiast, flexible learner of new programming languages, passionate reader and writer.
+
+![](https://ca.slack-edge.com/TD13TLM5E-U03E2A6JZ41-8b96a28d0ae0-512)
 
 ## ⚡ Projects
 
