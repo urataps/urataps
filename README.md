@@ -49,7 +49,7 @@ I am a skilled web3 & smart contracts engineer, computer science graduate, resea
 - [LinkedIn](https://www.linkedin.com/in/alexe-luca-spataru-40b52b146/)
 - [Telegram](https://t.me/urataps)
 - [Medium](https://medium.com/@urataps)
-- [Goodreads](https://www.goodreads.com/user/show/87533087-spataru-alexe-luca)
+- [Goodreads](https://www.goodreads.com/user/show/87533087-alexe-spataru)
   
 <!--
 **urataps/urataps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
