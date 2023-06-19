@@ -1,7 +1,12 @@
 ### Hi there, I'm Alexe Spataru (urataps) 👋
 
 ## 💬 About me
-I am a skilled web3 & smart contracts engineer, computer science graduate, research enthusiast, flexible learner of new programming languages, passionate reader and writer.
+I'm an established Web3 and Smart Contracts engineer with a strong academic background in Blockchain technology. My passion for researching and learning various smart contract protocols and security practices is matched by my dedication to reading and writing about technology. At the heart of my professional ethos lies a relentless pursuit for the decentralization of information and digital assets.
+
+Over the years, I have been a crucial part of numerous software development projects, both big and small. From personal endeavors to discover new technologies and ideas, to creating and maintaining fine-tuned smart contract architectures, I bring the same energy and commitment to each undertaking. 
+
+My academic accomplishments include research performed on bytecode compression and re-usability, as well as blockchain governance. With a blend of analytical, creative, and learning skills, I am also able leverage these skills daily to drive team productivity through resilient communication.
+
 
 ## ⚡ Projects
 
