@@ -3,8 +3,6 @@
 ## 💬 About me
 I am a skilled web3 & smart contracts engineer, computer science graduate, research enthusiast, flexible learner of new programming languages, passionate reader and writer.
 
-![](https://ca.slack-edge.com/TD13TLM5E-U03E2A6JZ41-8b96a28d0ae0-512)
-
 ## ⚡ Projects
 
 - [Diamond Foundry](https://github.com/Forgenie/diamond-foundry) - an experimental framework for creating EIP2535 Diamond Proxies with a standalone Factory and Registry, using the Solidity foundry framework.
@@ -46,11 +44,12 @@ I am a skilled web3 & smart contracts engineer, computer science graduate, resea
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
-## 📫 How to reach me
+## 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/alexe-luca-spataru-40b52b146/)
 - [Telegram](https://t.me/urataps)
 - [Medium](https://medium.com/@urataps)
+- [Goodreads](https://www.goodreads.com/user/show/87533087-spataru-alexe-luca)
   
 <!--
 **urataps/urataps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
