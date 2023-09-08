@@ -12,7 +12,9 @@ My academic accomplishments include research performed on bytecode compression a
 
 - [Diamond Foundry](https://github.com/Forgenie/diamond-foundry) - an experimental framework for creating EIP2535 Diamond Proxies with a standalone Factory and Registry, using the Solidity foundry framework.
 - [Foundry Book](https://github.com/foundry-rs/book) - Introduced the naming convention `test_<Action>` and `test_RevertsWhen_<Action>` for testing functions within the foundry docs.
-- [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - A privacy-preserving DeFi protocol utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies. 
+- [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - A privacy-preserving DeFi protocol (built at ETH Prague) utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies.
+- [CropVest](https://devfolio.co/projects/cropvest-000b) - Sustainable investments in agriculture by providing a secure platform for investors to support farmers in real-time & ensure a stable food supply. Used PUSH, Molecule protcols, and Gelato functions for fetching price data.
+- [G.O.A.T.](https://devpost.com/software/oracle-aggregator) - Groundbreaking Oracle Aggregation Technology (GOAT) is a tokenized oracle aggregator, which allows token holders access to multiple oracles. Users can mint or rent an NFT, which is required to access the oracle's data feed.
 - [ERC-6982: Efficient Default Lockable Tokens](https://eips.ethereum.org/EIPS/eip-6982) - A gas-efficient approach to soulbound NFTs, that introduces a default locked state and improvements to event indexing.
 - [NFT Merkle-Proof Reveal](https://github.com/urataps/nft-merkle-uri) - Contracts and utility scripts for generating a merkle tree based on URI reveal data that is set by a user who has a proof.
 - [CUDA Fractals](https://github.com/urataps/CUDAmandelbrot/tree/master) - A parallel systolic architecture for generating Mandelbrot and Julia Set using the GPU with the NVIDIA CUDA framework.
