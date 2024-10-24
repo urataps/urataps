@@ -10,7 +10,14 @@ My academic accomplishments include research performed on bytecode compression a
 
 ## ⚡ Projects
 
+- [GreenPress: A decentralized CMS and marketplace on BNB Greenfield](https://github.com/thedefibuilder/hackathon-bnb-champion)
+- [MyCyber.Fun: A token launch social platform on Cyber L2](https://github.com/thedefibuilder/hackathon-modularhouse)
+- [An AI powered Bug Bounty platform utilizing Chainlink Functions](https://github.com/thedefibuilder/hackathon-chainlink)
+- [An Insurance platform for Memecoins utilizing UniV4 hooks](https://github.com/EthGlobalBrussels24/cushion)
+- [A Gamified Platform for sharing moments and photos during events](https://github.com/bel0v/eth-global-london)
+- [A token streaming protocol for the GHO stablecoin](https://github.com/doinel1a/hackathon-lfgho)
 - [Diamond Foundry](https://github.com/Forgenie/diamond-foundry) - an experimental framework for creating EIP2535 Diamond Proxies with a standalone Factory and Registry, using the Solidity foundry framework.
+- [Hardhat & Foundry Hybrid Template]([url](https://github.com/urataps/hardhat-foundry-template))
 - [Foundry Book](https://github.com/foundry-rs/book) - Introduced the naming convention `test_<Action>` and `test_RevertsWhen_<Action>` for testing functions within the foundry docs.
 - [SaunaBound](https://devfolio.co/projects/saunabound-steaming-ahead-5b14) - A privacy-preserving DeFi protocol (built at ETH Prague) utilizing EIP6551 token-bound accounts, for interacting with lending/borrowing platforms without revealing asset holdings and strategies.
 - [CropVest](https://devfolio.co/projects/cropvest-000b) - Sustainable investments in agriculture by providing a secure platform for investors to support farmers in real-time & ensure a stable food supply. Used PUSH, Molecule protcols, and Gelato functions for fetching price data.
